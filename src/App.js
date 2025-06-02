@@ -7,16 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hand Cricket 
+          Plan of action - <br/>
+          1) Make a similar frontend as in zomato <br/>
+          2) Inplace of just adding 2 members in a room, we'll make a room in which you can add upto 10 players<br/> and then the room will itself decide who will play against whom
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
